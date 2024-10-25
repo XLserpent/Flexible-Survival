@@ -515,6 +515,7 @@ Include Francois Infections by AGentlemanCalledB.
 Include Friendship Pony by Stripes.
 Include Frost Drake by CrimsonAsh.
 Include Fruit Bat by Stripes.
+Include Fuckbot by XLserpent.
 Include Furling by Wahn.
 Include Gargoyle Sentry by Gherod.
 Include Gargoyle by Kaleem mcintyre.
